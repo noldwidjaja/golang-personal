@@ -1,0 +1,5 @@
+package base
+
+import (
+	_ "github.com/go-sql-driver/mysql"
+)
